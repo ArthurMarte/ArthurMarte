@@ -6,9 +6,9 @@
 
 ### Sobre mim
 
-Desenvolvedor back-end focado em Python e Django. Atualmente bolsista em projetos de pesquisa e desenvolvimento na UFSJ — construindo APIs, pipelines de dados e soluções geoespaciais.
+Desenvolvedor back-end especializado em Python e Django — APIs REST, pipelines ETL e processamento de dados geoespaciais com PostGIS. Experiência com Docker, Git e ambientes Linux. Interesse em cibersegurança e arquitetura de software. 
 
-Bacharel em Ciência da Computação pela UFV. Baseado em Dores do Indaiá, MG.
+Bacharel em Ciência da Computação pela UFV.
 
 ---
 
